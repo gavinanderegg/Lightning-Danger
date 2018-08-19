@@ -2,4 +2,5 @@
 .*
 !.gitignore
 *.pyc
+img/*.png
 
